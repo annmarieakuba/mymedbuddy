@@ -1,0 +1,8 @@
+sdk.dir=/Users/mac/Library/Android/sdk
+ndk.dir=/Users/mac/Library/Android/sdk/ndk/25.2.9519653
+flutter.sdk=/Users/mac/development/flutter
+flutter.buildMode=debug
+flutter.versionName=1.0.0
+flutter.versionCode=1
+
+
